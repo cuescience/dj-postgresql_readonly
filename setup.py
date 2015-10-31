@@ -9,7 +9,7 @@ def read(fname):
 setup(
         name="dj-postgresql_readonly",
         version='1.0',
-        description='Readonly postgres django db backend. Use it if you don't have read access to a database',
+        description="Readonly postgres django db backend. Use it if you don't have read access to a database",
         maintainer='cuescience',
         maintainer_email='kontakt@cuescience.de',
         license="MIT",
